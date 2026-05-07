@@ -1,0 +1,12 @@
+# Secrets / certificates
+*.pfx
+*.p12
+*.snk
+*.key
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

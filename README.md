@@ -143,15 +143,62 @@ Google ChromeはGoogle LLCの商標または登録商標です。
 
 当ソフトにはA.I.VOICE Editor API,NAudioを利用させていただきました。製作者の方々に感謝申し上げます。  
 
-内蔵立ち絵素材(結月ゆかり): 横茶横葉(@yokocha_yokoha),Mikan  
-おまけ立ち絵素材(結月ゆかり雫): 同上  
-カードアート等: ららられれ(@Rarararere1)  
-
 ### 免責事項  
 本ソフトウェアは個人の趣味の範囲内で製作・管理されている**非商用**のソフトウェアです。  
 ご利用時には**必ず連携先合成音声ソフトの利用規約に従ってください。** 製作者は当ソフトを利用したことによって発生した紛争・損害を含む全ての問題に対して責任を負いかねますのでご注意ください。 詳しくは[横茶横葉のサイト利用規約](https://yokonoha.github.io/readme)をご参照ください。  
 
+### 利用素材  
+内蔵立ち絵素材(結月ゆかり): 横茶横葉(@yokocha_yokoha),Mikan  
+おまけ立ち絵素材(結月ゆかり雫): 同上  
+カードアート等: ららられれ(@Rarararere1)  
+
+### オープンソースライセンス表示  
+This software uses the following components licensed under the MIT License.  
+Microsoft.Win32.Registry  
+Naudio  
+Naudio.Asio  
+Naudio.Core  
+Naudio.Midi  
+Naudio.Wasapi  
+Naudio.WinForms  
+Naudio.WinMM  
+System.Buffers  
+System.Memory  
+System.Numerics.Vectors  
+System.Resources.Extensions  
+System.Runtime.CompilerServices.Unsafe  
+System.Security.AccessControl  
+System.Security.Principal.Windows  
+
+Naudio  
+(Naudio.Asio,Naudio.Core,Naudio.Midi,Naudio.Wasapi,Naudio.WinForms,Naudio.WinMM)  
+Copyright 2020 Mark Heath  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
+
+Microsoft.Win32.Registry
+System.Buffers  
+System.Memory  
+System.Numerics.Vectors  
+System.Resources.Extensions  
+System.Runtime.CompilerServices.Unsafe  
+System.Security.AccessControl  
+System.Security.Principal.Windows  
+Copyright (c) Microsoft Corporation. All rights reserved.  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software.  
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
+
+
+以上の内容は、ソフトウェア内部"オープンソースライセンス表示"・"製作者情報・謝辞"ウィンドウでもご覧になれます。  
+
 
 ### おまけ。
 Rev.1.0バージョンカードアート @ららられれ  
-![カードアート](/Aspeechtest/Resources/byrarararere.png)  
+<img src="/Aspeechtest/Resources/byrarararere.png" style="width:20%">  

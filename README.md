@@ -154,4 +154,4 @@ Google ChromeはGoogle LLCの商標または登録商標です。
 
 ### おまけ。
 Rev.1.0バージョンカードアート @ららられれ  
-![カードアート](Aspeechtest\Resources\byrarararere.png)  
+![カードアート](/Aspeechtest/Resources/byrarararere.png)  
